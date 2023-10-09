@@ -15,7 +15,8 @@
   <br>
 
 <a href="https://github.com/LeydsonJR">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LeydsonJR&show_icons=true&theme=gruvbox" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeydsonJR&layout=compact&theme=gruvbox">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=LeydsonJR&show_icons=true&theme=gruvbox" />
+  <br>
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeydsonJR&layout=compact&theme=gruvbox">
   
 </a>
